@@ -3,4 +3,5 @@
 01_Numpy的图片处理（读取，变换，保存）\
 02_Numpy的One-hot形式的转换（eye，identity）\
 03_Numpy的数组各行，各列的求和，平均值，最大值，最小值，最大最小值差，标准差，方差等的计算\
-04_Numpy的函数np.where（）—满足条件的处理
+04_Numpy的函数np.where（）—满足条件的处理\
+05_Numpy任意行&列的删除方法（numpy.delete）
