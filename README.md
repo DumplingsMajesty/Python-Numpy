@@ -1,5 +1,4 @@
 # Python-Numpy
----
 
 我叫饺子大人，当然这不是我的真名，只是因为我喜欢吃饺子而已。学生时不懂python，不懂Machine Learning，更不懂人工智能。所以，工作后开始了我漫长的自学之路。我很欣赏网上那些默默奉献的人们, 分享自己所学的东西给了我很大的帮助。所以我决定我也要像那些奉献的人们一样, 将我的所学奉献给大家~
 
@@ -13,4 +12,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 02_Numpy的One-hot形式的转换（eye，identity）\
 03_Numpy的数组各行，各列的求和，平均值，最大值，最小值，最大最小值差，标准差，方差等的计算\
 04_Numpy的函数np.where（）—满足条件的处理\
-05_Numpy任意行&列的删除方法（numpy.delete）
+05_Numpy任意行&列的删除方法（numpy.delete）\
+06_Numpy各种随机数组的生成方法
