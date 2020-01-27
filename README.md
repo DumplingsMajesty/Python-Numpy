@@ -13,4 +13,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 03_Numpy的数组各行，各列的求和，平均值，最大值，最小值，最大最小值差，标准差，方差等的计算\
 04_Numpy的函数np.where（）—满足条件的处理\
 05_Numpy任意行&列的删除方法（numpy.delete）\
-06_Numpy各种随机数组的生成方法
+06_Numpy各种随机数组的生成方法\
+07_Numpy渐变图片的生成
