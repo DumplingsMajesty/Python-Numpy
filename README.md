@@ -14,4 +14,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 04_Numpy的函数np.where（）—满足条件的处理\
 05_Numpy任意行&列的删除方法（numpy.delete）\
 06_Numpy各种随机数组的生成方法\
-07_Numpy渐变图片的生成
+07_Numpy渐变图片的生成\
+08_Numpy初始化生成相同元素值的ndarray数组
