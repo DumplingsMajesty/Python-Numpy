@@ -66,10 +66,10 @@ def get_gradation_3d(width, height, start_list, stop_list, is_horizontal_list):
     return result
 
 array = get_gradation_3d(512, 256, (0, 0, 0), (255, 255, 255), (True, True, True))
-Image.fromarray(np.uint8(array)).save('../data/blog/pic/07/gradation_h.jpg', quality=95)
+Image.fromarray(np.uint8(array)).save('./data/07/gradation_h.jpg', quality=95)
 
 array = get_gradation_3d(512, 256, (0, 0, 0), (255, 255, 255), (False, False, False))
-Image.fromarray(np.uint8(array)).save('../data/blog/pic/07/gradation_v.jpg', quality=95)
+Image.fromarray(np.uint8(array)).save('./data/07/gradation_v.jpg', quality=95)
 
 array = get_gradation_3d(512, 256, (0, 0, 192), (255, 255, 64), (True, False, False))
-Image.fromarray(np.uint8(array)).save('../data/blog/pic/07/gradation_color.jpg', quality=95)
+Image.fromarray(np.uint8(array)).save('./data/07/gradation_color.jpg', quality=95)
