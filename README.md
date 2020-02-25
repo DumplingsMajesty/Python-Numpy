@@ -18,4 +18,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 08_Numpy初始化生成相同元素值的ndarray数组\
 09_Numpy生成空ndarray数组的方法(empty和empty_like)\
 10_Numpy图片RGB色彩通道的分离，以及单色化，黑色化和颜色的交换\
-11_Numpy含有缺失值ndarray数组的求和，平均值的计算方法
+11_Numpy含有缺失值ndarray数组的求和，平均值的计算方法\
+12_Numpy数组(ndarray)中缺失值(nan)的替换
