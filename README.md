@@ -20,4 +20,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 10_Numpy图片RGB色彩通道的分离，以及单色化，黑色化和颜色的交换\
 11_Numpy含有缺失值ndarray数组的求和，平均值的计算方法\
 12_Numpy数组(ndarray)中缺失值(nan)的替换\
-13_Numpy数组(ndarray)中含有缺失值(nan)行和列的删除方法
+13_Numpy数组(ndarray)中含有缺失值(nan)行和列的删除方法\
+14_NumPy数组ndarray的显示格式（位数，指数符号，零填充等）的指定
