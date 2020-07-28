@@ -24,4 +24,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 14_NumPy数组ndarray的显示格式（位数，指数符号，零填充等）的指定\
 15_Numpy使用sort和argsort函数进行(行・列）排序\
 16_NumPy数组ndarray以任何顺序排列行和列\
-17_NumPy数组ndarray中计算满足条件的元素的个数
+17_NumPy数组ndarray中计算满足条件的元素的个数\
+18_NumPy数组ndarray中提取，删除满足条件的元素，行和列
