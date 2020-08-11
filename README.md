@@ -26,4 +26,6 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 16_NumPy数组ndarray以任何顺序排列行和列\
 17_NumPy数组ndarray中计算满足条件的元素的个数\
 18_NumPy数组ndarray中提取，删除满足条件的元素，行和列\
-19_NumPy如何使用insert将元素/行/列插入/添加到数组ndarray
+19_NumPy如何使用insert将元素/行/列插入/添加到数组ndarray\
+20_NumPy数组ndarray和Python标准列表相互转换
+
