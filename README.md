@@ -28,5 +28,6 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 18_NumPy数组ndarray中提取，删除满足条件的元素，行和列\
 19_NumPy如何使用insert将元素/行/列插入/添加到数组ndarray\
 20_NumPy数组ndarray和Python标准列表相互转换\
-21_Numpy进行矩阵运算（逆矩阵，行列式，特征值等）
+21_Numpy进行矩阵运算（逆矩阵，行列式，特征值等）\
+22_NumPy检查版本（np.version）
 
