@@ -29,5 +29,5 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 19_NumPy如何使用insert将元素/行/列插入/添加到数组ndarray\
 20_NumPy数组ndarray和Python标准列表相互转换\
 21_Numpy进行矩阵运算（逆矩阵，行列式，特征值等）\
-22_NumPy检查版本（np.version）
-
+22_NumPy检查版本（np.version）\
+23_Python列表和数组以及numpy.ndarray的区别和正确使用\
