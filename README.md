@@ -31,3 +31,4 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 21_Numpy进行矩阵运算（逆矩阵，行列式，特征值等）\
 22_NumPy检查版本（np.version）\
 23_Python列表和数组以及numpy.ndarray的区别和正确使用\
+24_Numpy数组通过切片选择和分配子数组\
