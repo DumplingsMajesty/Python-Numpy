@@ -32,3 +32,4 @@ Numpy→Pandas→Machine Learning 这是我的炼丹之道。。。
 22_NumPy检查版本（np.version）\
 23_Python列表和数组以及numpy.ndarray的区别和正确使用\
 24_Numpy数组通过切片选择和分配子数组\
+25_NumPy数组np.round将ndarray舍入为偶数\
